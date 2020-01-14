@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-simple-todo-app/static/css/main.ccf027b2.chunk.css",
-    "main.js": "/react-simple-todo-app/static/js/main.81e084ec.chunk.js",
-    "main.js.map": "/react-simple-todo-app/static/js/main.81e084ec.chunk.js.map",
+    "main.js": "/react-simple-todo-app/static/js/main.dd03552f.chunk.js",
+    "main.js.map": "/react-simple-todo-app/static/js/main.dd03552f.chunk.js.map",
     "runtime-main.js": "/react-simple-todo-app/static/js/runtime-main.a9d2aa72.js",
     "runtime-main.js.map": "/react-simple-todo-app/static/js/runtime-main.a9d2aa72.js.map",
     "static/js/2.c72d99ef.chunk.js": "/react-simple-todo-app/static/js/2.c72d99ef.chunk.js",
     "static/js/2.c72d99ef.chunk.js.map": "/react-simple-todo-app/static/js/2.c72d99ef.chunk.js.map",
     "index.html": "/react-simple-todo-app/index.html",
-    "precache-manifest.24b48bae3867b1cf4905b66212f3b495.js": "/react-simple-todo-app/precache-manifest.24b48bae3867b1cf4905b66212f3b495.js",
+    "precache-manifest.5b58136a41b7cd85b85f66d12bb72e78.js": "/react-simple-todo-app/precache-manifest.5b58136a41b7cd85b85f66d12bb72e78.js",
     "service-worker.js": "/react-simple-todo-app/service-worker.js",
     "static/css/main.ccf027b2.chunk.css.map": "/react-simple-todo-app/static/css/main.ccf027b2.chunk.css.map",
     "static/js/2.c72d99ef.chunk.js.LICENSE": "/react-simple-todo-app/static/js/2.c72d99ef.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a9d2aa72.js",
     "static/js/2.c72d99ef.chunk.js",
     "static/css/main.ccf027b2.chunk.css",
-    "static/js/main.81e084ec.chunk.js"
+    "static/js/main.dd03552f.chunk.js"
   ]
 }
